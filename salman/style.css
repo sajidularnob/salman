@@ -52,7 +52,9 @@ color:  rgb(27, 184, 27);
     transition: color 1s ease;
    
 }
-
+.actives{
+    background-color: #000;
+}
 .navbar ul li a:hover{
    color: #00a79d;
     
@@ -62,7 +64,6 @@ nav.sticky{
     background-color: #000;
     
 }
-
 .floating-menu {
     /* display: none; */
     position: absolute;
